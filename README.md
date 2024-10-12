@@ -1,0 +1,1 @@
+Mixed configuration of beans (xml, annotations and java-configuration)
