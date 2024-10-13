@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>org.romanzhula</groupId>
-    <artifactId>Kafka-demo-app</artifactId>
+    <artifactId>data-generator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Kafka-demo-app</name>
     <description>Kafka-demo-app</description>
