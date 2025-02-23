@@ -10,8 +10,8 @@ Lombok: Utilized for reducing boilerplate code in models and other classes.
 MapStruct: Used for efficient mapping between DTOs and entities.
 
 ## Technologies Used
-# Java: Version 23
-# Spring Boot: Version 3.3.4
+### Java: Version 23
+### Spring Boot: Version 3.3.4
 # Spring Kafka: For Kafka producer and consumer functionality.
 # Reactor Kafka: Reactive Kafka integration with Spring.
 # Spring Boot Admin: For monitoring the application.
